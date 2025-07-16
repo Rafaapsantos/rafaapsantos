@@ -20,6 +20,8 @@
 <p align="left">Considero-me uma pessoa resiliente, responsável, dedicada e disciplinada. Acredito na importância das competências comportamentais (soft skills) e as aplico em todas as minhas atividades. Minha capacidade de adaptação me permite lidar com imprevistos de forma eficaz, enquanto minha comunicação clara contribui para o alinhamento entre equipes. Valorizo o trabalho em equipe, pois entendo que a colaboração e a troca de ideias são essenciais para o sucesso de qualquer projeto. Além disso, destaco minha habilidade em resolução de problemas e empatia, características que promovem um ambiente de trabalho harmonioso e produtivo.</p>
 <p align="left">🚀 Se sua equipe busca uma profissional comprometida, em constante evolução e pronta para contribuir com entusiasmo e responsabilidade, estou aberta a oportunidades e ficarei feliz em conversar sobre como posso agregar valor ao seu time.</p>
 
+<img align="left" alt="" height="190px" src="./me.gif">
+
 ##
 
 <div align="center">
@@ -49,8 +51,6 @@
 </div>
 
 ##
-
-<img align="right" alt="" height="190px" src="./me.gif">
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaapsantos/rafaapsantos/output/github-contribution-grid-snake-dark.svg">
