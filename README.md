@@ -1,5 +1,7 @@
 ## Hi ! My name is Rafaela Aparecida Dos Santos and I'm a Software Developer from Brazil.
 
+<br>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/rafaela-aparecida-dos-santos-28585a283/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -12,6 +14,7 @@
   </a>
 </div>
 
+<br>
 
 <p align="left">Sou desenvolvedora mobile Flutter júnior, com conhecimento prático em Dart e experiência no desenvolvimento de aplicativos utilizando Flutter, tanto em projetos acadêmicos quanto pessoais.</p>
 <p align="left">Atualmente, estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Franca – Fatec Franca, onde venho aprimorando minhas habilidades técnicas e participando de projetos que abrangem desde a fase de documentação até o desenvolvimento completo de sistemas.</p>
@@ -20,6 +23,8 @@
 <p align="left">Considero-me uma pessoa resiliente, responsável, dedicada e disciplinada. Acredito na importância das competências comportamentais (soft skills) e as aplico em todas as minhas atividades. Minha capacidade de adaptação me permite lidar com imprevistos de forma eficaz, enquanto minha comunicação clara contribui para o alinhamento entre equipes. Valorizo o trabalho em equipe, pois entendo que a colaboração e a troca de ideias são essenciais para o sucesso de qualquer projeto. Além disso, destaco minha habilidade em resolução de problemas e empatia, características que promovem um ambiente de trabalho harmonioso e produtivo.</p>
 <p align="left">🚀 Se sua equipe busca uma profissional comprometida, em constante evolução e pronta para contribuir com entusiasmo e responsabilidade, estou aberta a oportunidades e ficarei feliz em conversar sobre como posso agregar valor ao seu time.</p>
 
+<br>
+
 <img align="left" alt="" height="190px" src="./me.gif">
 
 <div align="center">
@@ -27,15 +32,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=rafaapsantos" height="150" alt="languages graph"  />
 </div>
 
-## Ferramentas e tecnologias com as quais já atuei ou estou em constante aprendizado.
+<br>
+
+<h2>Ferramentas e tecnologias com as quais já atuei ou estou em constante aprendizado.</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="30" width="54" alt=" flutter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" height="30" width="54" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg" height="40" width="58" alt="dart logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" height="30" width="54" alt="materialUi logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" width="54" alt="aws logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" height="30" width="54" alt="prisma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="30" width="54" alt="sql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" width="58" alt="aws logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" height="40" width="58" alt="prisma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="30" width="54" alt="sql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="30" width="54" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="30" width="54" alt="jupyter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" width="54" alt="javaScript logo"  />
@@ -43,12 +50,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="30" width="54" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30" width="54" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" width="54" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="30" width="54" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="30" width="54" alt="gitHub logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" height="30" width="54" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="35" width="58" alt="gitHub logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="30" width="54" alt="docker logo"  />
 </div>
 
-##
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaapsantos/rafaapsantos/output/github-contribution-grid-snake-dark.svg">
